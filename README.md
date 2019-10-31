@@ -1,2 +1,2 @@
 # DataScience_Portfolio
-Some of my projects during eductaion
+Some of my projects during education
